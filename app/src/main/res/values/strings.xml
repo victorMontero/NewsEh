@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsEh</string>
+
+    <string name="text_login_login_activity">login</string>
+    <string name="text_hint_email_login_activity">email</string>
+    <string name="text_hint_password_login_activity">password</string>
+    <string name="text_forgot_login_activity">forgot password?</string>
+    <string name="text_btn_login_activity">OK</string>
+    <string name="text_sign_up_login_activity">don\'t have an account? sign up</string>
+    <string name="text_explain_recover_activity">Did you forget your password?</string>
+    <string name="text_btn_reset_password">reset password</string>
+    <string name="text_sign_up">create a new user</string>
+    <string name="text_name_edit_text_sign_up_activity">name</string>
+    <string name="text_confirm_password_sign_up_activity">confirm your password</string>
+    <string name="ok">OK</string>
+</resources>
