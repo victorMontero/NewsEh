@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home_bottom_id"
+        android:title="home"
+        android:icon="@drawable/home_icon_white"/>
+
+
+    <item android:id="@+id/saved_bottom_id"
+        android:title="saved"
+        android:icon="@drawable/favourite_icon_white"/>
+
+
+    <item android:id="@+id/search_bottom_id"
+        android:title="search"
+        android:icon="@drawable/search_icon_white"/>
+
+</menu>
